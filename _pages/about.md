@@ -6,4 +6,6 @@ title: About
 
 More details about me on this page with links to my social media profiles and so on.
 
-![alt text](../_media/img.png)
+![alt text](assets/imgs/screenshot.png)
+
+![alt text](media/img.png)
